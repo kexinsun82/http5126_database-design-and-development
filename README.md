@@ -10,7 +10,7 @@ This course covers strategies to design databases effectively and how to write S
 
 ## Assignments Repo
 After all assignments are graded, I will change the repository to public.  
-[Database Design & Development - Assignments Repo](https://github.com/kexinsun82/humber-assignments/tree/f9266c6ae11bc0c4786520275496e935f08af61d/3.2-database%20design%20and%20development%20HTTP5126)
+[Assignments Repo](https://github.com/kexinsun82/humber-assignments.git)
 
 ## Outcomes
 - Formulate programming statements that will create, read, update or delete data from a data source.  
